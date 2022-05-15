@@ -215,7 +215,7 @@ main {
 .job {
   margin-bottom: 0.5rem;
   text-transform: uppercase;
-  color: var(--clr-primary-5);
+  color: var(--clr-green-dark);
   font-size: 0.85rem;
 }
 .info {
